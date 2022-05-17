@@ -1,3 +1,4 @@
+#Version 2 for testing
 #Mucking about with use of spatial replicates from single-sample Hochstetter's frog data in R to estimate frog abudnance in a given transect
 #Original code from Royle & Dorzaio (2008), Panel 6.1, page 201. 
 
